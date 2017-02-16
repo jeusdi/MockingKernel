@@ -1,6 +1,6 @@
 # MockingKernel
 
-Please, could you take a look on `Solution -> Tests -> Kernle.Tests -> Users -> UserTests.cs`.
+Please, could you take a look on `Solution -> Tests -> Kernle.Tests -> Users -> UserTests.cs` (MockingKernel/Tests.Kernel/Users/UsersTests.cs).
 
 I don't quite figure out which are the differences between `GetMock<T>`, `Get<T>`, `Bind<T>.ToMock()` and what do they stand for.
 
